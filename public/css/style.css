@@ -1,0 +1,51 @@
+/* 検索バーのスタイリング */
+.search-bar {
+    background-image: url("../images/pattern_camo3.jpg");
+}
+/* 地域ナビゲーションのスタイリング */
+.area-toggle {
+    background-color: #65a30d;
+    color: white;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.area-toggle:hover {
+    background-color: #4d7c0f;
+}
+
+/* レスポンシブデザインのためのメディアクエリ */
+/* @media (max-width: 900px) {
+    header {
+        padding: 10px;
+    }
+
+    header img {
+        width: 200px;
+    }
+
+    header button {
+        padding: 0 5px;
+    }
+
+    .search-bar {
+        margin: 0;
+    }
+    .search-bar button {
+        padding: 0 5px;
+    }
+
+    .field-info {
+        flex-direction: column;
+    }
+
+    .field {
+        width: 90%;
+    }
+
+    .field-detail {
+        margin: 10px 0;
+    }
+} */
