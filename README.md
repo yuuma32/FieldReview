@@ -5,7 +5,7 @@ Laravelを使用して作成したサバイバルゲームフィールドのレ�
 会員登録せずに使用する場合は以下のユーザー情報をご使用ください。<br>
 メールアドレス : guest@example.com<br>
 パスワード : password
-<img width="1470" alt="サイトイメージ" src="">
+<img width="1470" alt="サイトイメージ" src="https://github.com/yuuma32/FieldReview/assets/169751715/3ff24674-24d1-4e93-b82d-ebcba186d427">
 
 # サイトURL
 http://52.198.70.157/
