@@ -20,7 +20,7 @@ http://52.198.70.157/
     - フィールド名または都道府県で検索することが可能。  
 
 # AWS構成図
-<img src="[https://github.com/yuuma32/git_practice/assets/169751715/dc69bb68-5774-48c7-b58c-f19de4f6ec1f](https://github.com/yuuma32/FieldReview/assets/169751715/3575b653-f015-49a9-83df-d7e210763523)">
+![AWS構成図](https://github.com/yuuma32/FieldReview/assets/169751715/2305b6eb-7453-4160-91f9-757d3e97b282)
 
 # 使用した技術
 - HTML
