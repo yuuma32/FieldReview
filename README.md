@@ -8,7 +8,7 @@ Laravelを使用して作成したサバイバルゲームフィールドのレ�
 <img width="1470" alt="サイトイメージ" src="https://github.com/yuuma32/FieldReview/assets/169751715/3ff24674-24d1-4e93-b82d-ebcba186d427">
 
 # サイトURL
-http://52.198.70.157/
+http://field-review.com/
 
 # 機能一覧
 - ユーザー登録、ログイン機能(Laravel Breezeで作成)
